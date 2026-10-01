@@ -1,0 +1,4 @@
+cluster,Elevation,Aspect,Slope,Horizontal_Distance_To_Hydrology,Vertical_Distance_To_Hydrology,Horizontal_Distance_To_Roadways,Hillshade_9am,Hillshade_Noon,Hillshade_3pm,Horizontal_Distance_To_Fire_Points
+0,2857.8,168.89,22.92,462.32,141.81,1569.52,191.39,203.75,139.52,1409.27
+1,3002.86,275.51,13.1,261.07,37.91,2609.77,194.44,236.21,177.77,1833.19
+2,2956.48,77.88,12.63,228.67,28.99,2374.49,228.12,219.95,121.3,2207.93
